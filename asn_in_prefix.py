@@ -45,7 +45,7 @@ def main():
         '-r', '--route-server',
         type=str,
         default='route-views.sydney.routeviews.org',
-        help='Specify route server to use. Route server must be from routeviews.org'
+        help='Specify route server to use. Route server must be running Quagga'
              'Default - route-views.sydney.routeviews.org'
     )
     parser.add_argument(
