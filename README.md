@@ -14,5 +14,15 @@ optional arguments:
                         Specify route server to use. Route server must be from routeviews.org
                         Default - route-views.sydney.routeviews.org
 
+
+## Sample Output
+```
+(virtual-env) [james@web1.ditrapani.com.au][~/Github/asn_in_range]$ python asn_in_prefix.py 192.18.0.0/16
+
+Prefix: 192.18.0.0/16
+Unique Originating ASNs: 4
+ASNs: AS792 AS4192 AS786 AS7160
+```
+
 ## Authors
 * **James Di Trapani** - [Github](https://github.com/jamesditrapani)
