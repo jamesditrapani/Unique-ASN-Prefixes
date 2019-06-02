@@ -3,7 +3,7 @@
 Find unique ASNs within a given IPv4 prefix
 
 ## Usage
-usage: asn_in_prefix.py [-h] [-r ROUTE_SERVER] prefix
+asn_in_prefix.py [-h] [-r ROUTE_SERVER] prefix
 
 positional arguments:
   prefix                IPv4 Prefix you wish to find the unique ASNs within
