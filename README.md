@@ -11,7 +11,7 @@ positional arguments:
 optional arguments:
   -h, --help            show this help message and exit
   -r ROUTE_SERVER, --route-server ROUTE_SERVER
-                        Specify route server to use. Route server must be from routeviews.org
+                        Specify route server to use. Route server must be running Quagga
                         Default - route-views.sydney.routeviews.org
 
 
